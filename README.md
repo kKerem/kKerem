@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=kKerem&color=1f75d8&style=flat&label=Profile+Views+)
 <!--
 **kKerem/kKerem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
