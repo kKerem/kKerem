@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Kerem. I'm a Software Engineer student in Ukraine. I mostly like to do some front-end projects.
+My name is Kerem. I'm a Software Engineer student and also working in Ukraine. I mostly like to do some front-end projects.
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kKerem&layout=compact)
