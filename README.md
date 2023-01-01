@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m a 26-year-old computer engineering student who works as a freelancer as well. I especially enjoy making web projects.
+I’m a computer engineering student who works as a freelancer as well. I especially enjoy making web projects.
 
 
 <h4>Languages I use</h4>
